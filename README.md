@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+你好我是西瓜，是深圳大学的一名CS研究生，研究方向为深度学习，自然语言处理和大模型，多多指教：）
+- 目前在[百度飞桨](https://github.com/PaddlePaddle/PaddleNLP)实习
+<div align="left">
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wtmlon&show_icons=true&theme=dracula)
+  
+</div>
